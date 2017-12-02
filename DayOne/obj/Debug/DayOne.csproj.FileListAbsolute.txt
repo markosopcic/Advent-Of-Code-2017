@@ -1,7 +1,0 @@
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\obj\Debug\DayOne.csproj.CoreCompileInputs.cache
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\bin\Debug\DayOne.exe.config
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\bin\Debug\DayOne.exe
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\bin\Debug\DayOne.pdb
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\obj\Debug\DayOne.exe
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\obj\Debug\DayOne.pdb
-C:\Users\Marko\source\repos\AdventOfCode\DayOne\obj\Debug\DayOne.csprojResolveAssemblyReference.cache
