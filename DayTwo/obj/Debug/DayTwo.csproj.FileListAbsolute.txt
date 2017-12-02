@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\bin\Debug\DayTwo.exe.config
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\bin\Debug\DayTwo.exe
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\bin\Debug\DayTwo.pdb
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\obj\Debug\DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\obj\Debug\DayTwo.exe
+C:\Users\Marko\source\repos\AdventOfCode\DayTwo\obj\Debug\DayTwo.pdb
