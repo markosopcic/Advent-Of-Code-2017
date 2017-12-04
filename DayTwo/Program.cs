@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,8 +11,9 @@ namespace DayTwo
     {
         static void Main(string[] args)
         {
-
-            string[] result = System.IO.File.ReadAllLines("C:/Users/Marko/source/repos/AdventOfCode/DayTwo/Input.txt");
+            string projectFolder = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
+            string fileName = Path.Combine(projectFolder, @"input.txt");
+            string[] result = System.IO.File.ReadAllLines(fileName);
             Second(result);
         }
 
