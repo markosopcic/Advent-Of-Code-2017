@@ -43,7 +43,7 @@ namespace DayTen
             Console.WriteLine(nums[0] * nums[1]);
             Console.ReadKey();
         }
-        public static void Second(String arg)
+        public static String Second(String arg)
         {
             int skip = 0;
             int currIndex = 0;
@@ -90,6 +90,7 @@ namespace DayTen
             }
             Console.WriteLine(hex);
             Console.ReadKey();
+            return hex;
         }
 
     }
